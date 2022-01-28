@@ -54,6 +54,14 @@ darr.dpop()
 darr.dpop()
 darr.dpop()
 darr.dpop()
+darr.dpush(21)
+darr.dpush(22)
+darr.dpush(22)
+darr.dpush(24)
+darr.dpush(25)
+darr.dpush(26)
+darr.dpush(27)
+darr.dpush(28)
 
 
             
